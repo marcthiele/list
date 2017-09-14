@@ -1,5 +1,36 @@
 [
   {
+  "name": "beyond tellerrand // MUNICH",
+  "topic": "Web Design, Design, Development, Typography",
+  "url": "https://beyondtellerrand.com/events/munich-2018",
+  "twitter": "@btconf",
+  "city": "Berlin",
+  "stateProvince": "Berlin",
+  "country": "Germany",
+  "eventStartDate": "2018-01-15T08:00:00.000Z",
+  "eventEndDate": "2018-11-17T18:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+    "latitude": 48.140167,
+    "longitude": 11.568013
+  },  {
+  "name": "beyond tellerrand // BERLIN",
+  "topic": "Web Design, Design, Development, Typography",
+  "url": "https://beyondtellerrand.com/events/berlin-2017",
+  "twitter": "@btconf",
+  "city": "Berlin",
+  "stateProvince": "Berlin",
+  "country": "Germany",
+  "eventStartDate": "2017-11-06T08:00:00.000Z",
+  "eventEndDate": "2017-11-08T18:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+    "latitude": 52.520713,
+    "longitude": 13.388347
+  },
+  {
     "name": "!!Con",
     "topic": "",
     "url": "http://bangbangcon.com/",
@@ -928,20 +959,20 @@
     "longitude": 8.2472526
   },
   {
-    "name": "Beyond Tellerrand",
-    "topic": "",
-    "url": "http://beyondtellerrand.com/events/duesseldorf-2017",
-    "twitter": "",
+    "name": "beyond tellerrand // DÜSSELDORF",
+    "topic": "Web Design, Development, Design, Typography",
+    "url": "http://beyondtellerrand.com/events/duesseldorf-2018",
+    "twitter": "@btconf",
     "city": "Düsseldorf",
     "stateProvince": "",
     "country": "Germany",
-    "eventStartDate": "",
-    "eventEndDate": "",
+    "eventStartDate": "2018-05-07",
+    "eventEndDate": "2018-05-09",
     "cfpStartDate": "",
     "cfpEndDate": "",
     "codeOfConduct": "",
-    "latitude": 51.2277411,
-    "longitude": 6.7734556
+    "latitude": 51.223755,
+    "longitude": 6.800347
   },
   {
     "name": "Beyond The Desktop",
